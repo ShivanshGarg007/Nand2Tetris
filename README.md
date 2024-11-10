@@ -1,4 +1,4 @@
 "# Nand2Tetris" 
 Kalvium
 
-This repository contains all of Shivansh Garg's BOCS assignment
+This repository contains all of Shivansh Garg's BOCS assignment for Stack 1
